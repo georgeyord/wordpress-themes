@@ -1,4 +1,3 @@
-wordpress-themes
+Wordpress themes - A simple showcase using reveal.js
 ================
 
-Wordpress themes simple showcase
